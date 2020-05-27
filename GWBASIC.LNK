@@ -33,4 +33,4 @@ NEXT86.OBJ+
 SCNDRV.OBJ+
 SCNEDT.OBJ+
 OEM.OBJ
-gwbasic;
+gwbasic /STACK:8192;
